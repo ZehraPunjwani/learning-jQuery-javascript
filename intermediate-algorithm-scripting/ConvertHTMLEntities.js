@@ -1,6 +1,6 @@
 /*
   Written By: Zehra Punjwani
-  Date: May 2017
+  Date: June 2017
   Details: Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
 */
 

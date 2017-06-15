@@ -1,6 +1,6 @@
 /*
 	Written By: Zehra Punjwani
-	Date: May 2017
+	Date: June 2017
 	Details: Convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
 */
 
