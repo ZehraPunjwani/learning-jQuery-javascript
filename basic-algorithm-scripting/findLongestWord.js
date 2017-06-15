@@ -1,3 +1,8 @@
+/*
+	Written By: Zehra Punjwani
+	Date: May 2017
+	Details: Return the length of the longest word in the provided sentence. Your response should be a number.
+*/
 
 function findLongestWord(str) {
   var newStr = str.split(" ");

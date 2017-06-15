@@ -1,3 +1,9 @@
+/*
+  Written By: Zehra Punjwani
+  Date: May 2017
+  Details: Convert the given number into a roman numeral. All roman numerals answers should be provided in upper-case.
+*/
+
 function convertToRoman(num) {
   
   var decimalValue = [ 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 ];
